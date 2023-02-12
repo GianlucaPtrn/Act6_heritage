@@ -1,0 +1,14 @@
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.exe
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.deps.json
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.runtimeconfig.json
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.runtimeconfig.dev.json
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.dll
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\bin\Debug\netcoreapp3.1\Act6_Heritage_Ex2.pdb
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.AssemblyInfoInputs.cache
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.AssemblyInfo.cs
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.dll
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.pdb
+C:\Users\gmist\OneDrive\Bureau\Act6_HeritageExercice\Act6_Heritage_Ex2\Act6_Heritage_Ex2\obj\Debug\netcoreapp3.1\Act6_Heritage_Ex2.genruntimeconfig.cache
